@@ -32,3 +32,8 @@ To contribute to this project, follow these steps:
 
 This project was created by Adam Alemi.
 
+## Sample Output
+
+![screenshot1](./1.png)
+![screenshot2](./2.png)
+
